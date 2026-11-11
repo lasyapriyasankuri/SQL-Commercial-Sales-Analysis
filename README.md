@@ -76,6 +76,8 @@ reports/Commercial_Sales_Performance_Dashboard_Final.pbix
 ### Dashboard Screenshots
 
 #### 1. Executive Overview
+<img width="710" height="392" alt="image" src="https://github.com/user-attachments/assets/d1226b14-6ef6-4a3c-a1be-87a8d39fd72c" />
+
 
 ![Executive Overview](images/01_executive_overview.png)
 
